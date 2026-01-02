@@ -19,6 +19,10 @@
 
 [HW5](https://gemini.google.com/share/c6b6e371f3e5)
 
+### 習題 7: 請從下列三個搜尋問題，選一個完成（寫程式）
+
+[狼、羊、甘藍菜過河](https://github.com/Micha1lyu/_alg/blob/main/HW7/river_crossing.py)
+
 ### 習題 11: 請把計算理論的故事講一遍 （問 AI 回答也可以）
 
 [HW11](https://gemini.google.com/share/1f27fdb44b6c)
