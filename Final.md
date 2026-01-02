@@ -31,6 +31,10 @@
 
 [hw9.md](https://github.com/Micha1lyu/_alg/blob/main/HW9/hw9.md)
 
+### 習題 10: 寫一個程式可以做 n 維函數的積分 (n 是參數）
+
+[HW10](https://github.com/Micha1lyu/_alg/blob/main/HW10/hw10.py)
+
 ### 習題 11: 請把計算理論的故事講一遍 （問 AI 回答也可以）
 
 [HW11](https://gemini.google.com/share/1f27fdb44b6c)
