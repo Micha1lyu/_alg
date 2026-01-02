@@ -23,6 +23,11 @@
 
 [狼、羊、甘藍菜過河](https://github.com/Micha1lyu/_alg/blob/main/HW7/river_crossing.py)
 
+### 習題 9: 請用 AI 寫出一個最小編輯距離程式，並請 AI 說明之，然後分享 AI 網址
+
+[AI對談](https://gemini.google.com/share/cb209e6d1464)
+[HW9](https://github.com/Micha1lyu/_alg/blob/main/HW9/hw9.py)
+
 ### 習題 11: 請把計算理論的故事講一遍 （問 AI 回答也可以）
 
 [HW11](https://gemini.google.com/share/1f27fdb44b6c)
